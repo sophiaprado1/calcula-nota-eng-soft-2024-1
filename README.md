@@ -47,8 +47,8 @@ Uma plataforma de gestão acadêmica que permite o cadastro de alunos e o regist
    - Em seguida importe o arquivo bd.sql que se encontra neste repositorio. 
 
    3. **Acesse a aplicação:**
-    - O frontend estará disponível em `http://localhost:calcula-nota-eng-soft-2024-1` #substituir
-    - O backend estará disponível em `http://localhost:80` #substituir
+    - O frontend estará disponível em `http://localhost:calcula-nota-eng-soft-2024-1`
+    - O backend estará disponível em `http://localhost:80` 
  
  
 
