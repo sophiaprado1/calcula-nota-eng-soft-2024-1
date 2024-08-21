@@ -1,5 +1,5 @@
 
-# SEGURA CADEIRA
+# CALCULA NOTA
 
 ## Universidade Federal do Tocantins
 
