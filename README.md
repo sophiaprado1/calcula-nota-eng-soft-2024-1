@@ -24,7 +24,7 @@ Uma plataforma de gestão acadêmica que permite o cadastro de alunos e o regist
 
  ## Link do Vídeo de Apresentação
  
- - [Assista ao vídeo de apresentação do projeto](#) _(substitua o link com o URL real)_
+ - [Assista ao vídeo de apresentação do projeto](#) _(https://youtu.be/nuhnGUvLBDY)_
  
  ## Instruções de Configuração e Execução
  
@@ -36,14 +36,20 @@ Uma plataforma de gestão acadêmica que permite o cadastro de alunos e o regist
  
  ### Passos para Instalação
  
- 1. **Clone o repositório:**
+   1. **Clone o repositório:**
     ```bash
-    git clone https://github.com/sophiaprado1/segura-cadeira-eng-soft-2024-1.git
-    cd segura-cadeira-eng-soft-2024-1-restaurantes
+    git clone hhttps://github.com/sophiaprado1/calcula-nota-eng-soft-2024-1.git
+    cd calcula-nota-eng-soft-2024-1
     ```
 
- 2. **Acesse a aplicação:**
-    - O frontend estará disponível em `http://localhost:nomedoprojeto` #substituir
+   2. **Banco de Dados**
+   - Dentro de `http://localhost:` acesse myAdminPhp, crie o Banco de Dados com o nome tbl_engsoft. 
+   - Em seguida importe o arquivo bd.sql que se encontra neste repositorio. 
+
+   3. **Acesse a aplicação:**
+    - O frontend estará disponível em `http://localhost:calcula-nota-eng-soft-2024-1` #substituir
     - O backend estará disponível em `http://localhost:80` #substituir
  
+ 
+
  
